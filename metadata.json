@@ -1,0 +1,7 @@
+{
+  "name": "Sahiddirgonj Blood",
+  "description": "Sahiddirgonj Blood Donor's Group - Real-time donor map, emergency request alerts, eligibility verification, and donation history tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
